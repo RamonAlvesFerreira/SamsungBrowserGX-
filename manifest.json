@@ -1,0 +1,9 @@
+{
+  "name": "Samsung Browser Style",
+  "version": "1.0",
+  "description": "Mod que deixa o Opera GX parecido com o Samsung Internet Browser.",
+  "author": "Seu Nome",
+  "files": {
+    "css": ["style.css"]
+  }
+}

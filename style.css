@@ -1,0 +1,13 @@
+#browser-navigation {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 20px 20px 0 0;
+    padding: 10px;
+}
+#browser-navigation button {
+    border-radius: 50%;
+    background: #ffffff22;
+    color: white;
+}
